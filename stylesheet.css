@@ -132,6 +132,6 @@ span.highlight {
 
 .cpic {
   height: auto;
-  border-radius: 40% / 20%;
+  border-radius: 10% / 20%;
   /* object-fit: cover;  */
 }
