@@ -131,7 +131,7 @@ span.highlight {
 }
 
 .cpic {
-  height: auto;
-  border-radius: 10% / 20%;
+  /* height: auto; */
+  border-radius: 20% / 40%;
   /* object-fit: cover;  */
 }
