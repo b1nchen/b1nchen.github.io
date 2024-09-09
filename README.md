@@ -8,7 +8,7 @@ My primary research interests lie in Spatial-temporal Data Mining and Recommenda
 
 Beyond academia, I find joy in activities like swimming🏊‍, and reading📘.  
 
-For more detailed information about my background and achievements, please visit [my curriculum vitae](https://drive.google.com/file/d/1ja_JEkhdQ6Htx0uBM9kYeUlewwjqUmrc/view).
+For more detailed information about my background and achievements, please visit [my CV](https://drive.google.com/file/d/1TvkRNePgLxkwEj7lhszAXp8VooKA-rFz/view?usp=drive_link).
 
 Motto: Experience life, not just pursue goals!
 
